@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 01 Dec 2017 01:09:59 at http://dbk4.kiev.ua/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ru, en, *" http://dbk4.kiev.ua/ -O1 "D:\Plish2\Plish2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:13:49	Error: 	"Not Found" (404) at link dbk4.kiev.ua/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from connect.facebook.net/ru_RU/all.js)
+01:13:49	Error: 	"Not Found" (404) at link dbk4.kiev.ua/^([^:/? (from connect.facebook.net/ru_RU/all.js)
+01:13:49	Error: 	"Not Found" (404) at link dbk4.kiev.ua/restserver.php (from connect.facebook.net/ru_RU/all.js)
+01:13:49	Error: 	"Not Found" (404) at link dbk4.kiev.ua/dialog/ (from connect.facebook.net/ru_RU/all.js)
+01:13:49	Error: 	"Bad Request" (400) at link dbk4.kiev.ua/%s/profile.php?id=%s (from connect.facebook.net/ru_RU/all.js)
+01:19:41	Error: 	"Not Found" (404) at link dbk4.kiev.ua/akcii/akciya_1.html (from dbk4.kiev.ua/produkciya/zalizobeton/fundament.html)
+01:19:41	Error: 	"Not Found" (404) at link dbk4.kiev.ua/ua/akcii/akciya_1.html (from dbk4.kiev.ua/ua/produkciya/zalizobeton/fundament.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 42 seconds : 175 links scanned, 167 files written (15073146 bytes overall) [14429137 bytes received at 24792 bytes/sec], 1177225 bytes transferred using HTTP compression in 59 files, ratio 35%, 3.7 requests per connection
+(7 errors, 0 warnings, 0 messages)
